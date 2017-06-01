@@ -1,0 +1,2 @@
+Learn Enough Command Line to Be Dangerous - Michael Hartl
+Learn Enough Git  to Be Dangerous - Michael Hartl
